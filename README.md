@@ -5,7 +5,7 @@
                               -- 一个只会写屎山的小开发
 </pre>
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
+**关于我:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
