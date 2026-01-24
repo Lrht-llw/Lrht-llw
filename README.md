@@ -9,12 +9,12 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-|   主&emsp;页   | <https://www.lrht.cc>                                      |
+|   主&emsp;页   | <https://www.lrht.cc>                 |
 | :------------: | :------------------------------------------------------- |
-| **博&emsp;客** | **<https://bk.lrht.cc>**                            |
-| **B&emsp;站** | **<https://space.bilibili.com/1235649129>**          |
-|   **邮箱**   | **<2179725762@qq.com>**                    |
-| **联&emsp;系** | **<https://qm.qq.com/q/aMVWfpw38Q>** |
+| **博&emsp;客** | **<https://bk.lrht.cc>**              |
+| **B&emsp;站**  | **<https://space.bilibili.com/1235649129>**       |
+| **邮&emsp;箱** | **<2179725762@qq.com>**                |
+| **联&emsp;系** | **<https://qm.qq.com/q/aMVWfpw38Q>**   |
 
 **编程语言:**
 
