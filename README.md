@@ -15,6 +15,7 @@
 | **B&emsp;站**  | **<https://space.bilibili.com/1235649129>**       |
 | **邮&emsp;箱** | **<2179725762@qq.com>**                |
 | **联&emsp;系** | **<https://qm.qq.com/q/aMVWfpw38Q>**   |
+| **联&emsp;系** | **[QQ](https://qm.qq.com/q/aMVWfpw38Q)**   |
 
 **编程语言:**
 
