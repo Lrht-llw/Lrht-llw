@@ -7,7 +7,7 @@
 
 **关于我:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
 
-<img src="bj.png" width="320" align="right" alt="">
+<img src="bj.png" width="786" align="right" alt="">
 
 |   主&emsp;页   | <https://www.lrht.cc>                 |
 | :------------: | :------------------------------------------------------- |
@@ -18,4 +18,3 @@
 **My GitHub stats**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lrht-llw&count_private=true&show_icons=true)
-
