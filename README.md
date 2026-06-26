@@ -7,7 +7,7 @@
 
 **关于我:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<img src="bj.png" width="260" align="right" alt="">
 
 |   主&emsp;页   | <https://www.lrht.cc>                 |
 | :------------: | :------------------------------------------------------- |
