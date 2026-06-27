@@ -5,6 +5,8 @@
                               -- 一个只会写屎山的小开发
 </pre>
 
+📌 在校中专生，只有周末时间会加紧更新
+
 **关于我:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
 
 <img src="bj.jpg" width="720" align="left" alt="">
