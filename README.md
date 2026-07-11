@@ -25,3 +25,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lrht-llw&theme=github-compact&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lrht-llw&theme=solarized" width="47%" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lrht-llw&theme=solarized&utcOffset=8" width="47%" alt="Productive Time" />
+</div>
