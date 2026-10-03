@@ -7,7 +7,7 @@
 
 ---
 
-**关于我:** <img src="https://visitor-badge.laobi.icu/badge?page_id=Lrht-llw.Lrht-llw" align="center" alt="visitors">
+**关于我:**
 
 ---
 
@@ -20,10 +20,6 @@
 ---
 
 **My GitHub**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lrht-llw&theme=github-compact&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lrht-llw&theme=solarized" width="47%" alt="Stats" />
